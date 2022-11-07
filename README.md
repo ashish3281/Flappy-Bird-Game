@@ -23,3 +23,4 @@ Increment score value after every successful navigation between the pipes.
 <hr>
 <h2>OUTPUT</h2>
 
+![Screenshot (448)](https://user-images.githubusercontent.com/92047366/200333068-32d04e1e-8f2e-4d66-a5f4-31bd317285e9.png)
