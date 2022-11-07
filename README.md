@@ -21,3 +21,5 @@ Apply collision with ground and pipes and if the bird collides then change the g
 Increment score value after every successful navigation between the pipes.
 </pre>
 <hr>
+<h2>OUTPUT</h2>
+
